@@ -26,12 +26,6 @@ body {
     color: #e9ecef;
     border-bottom: 6px solid #adb5bd;
     border-radius: 6px;
-        
-    /*
-    Challenge:
-    Find a color palette you like on Coolors.co
-    and use it in your business card.
-     */
 }
 
 #username {
@@ -39,24 +33,11 @@ body {
   text-decoration: none;
 }
 
+#email {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
 .border-blue {
     border: 1px dotted #343a40;
 }
-
-/*
-Stretch goals:
-Find other ways you can personalize 
-the design of your business card, e.g.:
-- change the border(s)
-- add border radius
-- shuffle the layout
-- shadows        🤯
-- hover effects  🤯🤯
-- animations     🤯🤯🤯
-*/
-
-/*
-Final challenge:
-Download the code to your local computer and place it
-in a folder called "business-card"
-*/
